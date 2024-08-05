@@ -359,8 +359,14 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":16,
                  "id":113,
-                 "name":"Meeting",
+                 "name":"Cafebar",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Cafebar"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":24,
@@ -436,7 +442,7 @@
          "name":"Websites",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
