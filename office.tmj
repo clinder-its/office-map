@@ -121,7 +121,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"um Cafebar beizutreten."
+                         "value":"Dr\u00fccke {key:Space} um Cafebar beizutreten \ud83c\udf75"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -164,7 +164,7 @@
                         {
                          "name":"openTabTriggerMessage",
                          "type":"string",
-                         "value":"um das Lagerbuch Taskboard einzusehen."
+                         "value":"Dr\u00fccke {key:Space} um das Lagerbuch Taskboard einzusehen \ud83d\udc40"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -207,7 +207,7 @@
                         {
                          "name":"openTabTriggerMessage",
                          "type":"string",
-                         "value":"um Arbeitszeiten zu erfassen."
+                         "value":"Dr\u00fccke {key:Space} um Arbeitszeiten zu erfassen \ud83d\udc40"
                         }],
                  "type":"tilelayer",
                  "visible":true,
