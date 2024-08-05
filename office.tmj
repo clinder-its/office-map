@@ -121,7 +121,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke {key:Space} um Cafebar beizutreten \ud83c\udf75"
+                         "value":"Dr\u00fccke [Space] um Cafebar beizutreten \ud83c\udf75"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -164,7 +164,7 @@
                         {
                          "name":"openTabTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke {key:Space} um das Lagerbuch Taskboard einzusehen \ud83d\udc40"
+                         "value":"Dr\u00fccke [Space] um das Lagerbuch Taskboard einzusehen \ud83d\udccb"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -174,7 +174,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke {key:Space} um das Lagerbuch Taskboard einzusehen \ud83d\udc40"
+                         "value":"Dr\u00fccke [Space] um das Lagerbuch Taskboard einzusehen \ud83d\udccb"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -217,7 +217,7 @@
                         {
                          "name":"openTabTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke {key:Space} um Arbeitszeiten zu erfassen \ud83d\udc40"
+                         "value":"Dr\u00fccke [Space] um Arbeitszeiten zu erfassen \ud83d\udd51"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -227,7 +227,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Dr\u00fccke {key:Space} um Arbeitszeiten zu erfassen \ud83d\udc40"
+                         "value":"Dr\u00fccke [Space] um Arbeitszeiten zu erfassen \ud83d\udd51"
                         }],
                  "type":"tilelayer",
                  "visible":true,
